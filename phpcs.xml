@@ -2,9 +2,6 @@
 <ruleset name="WordPress Coding Standards">
     <description>Grow Development PHP_CodeSniffer ruleset.</description>
 
-    <!-- Rules -->
-    <rule ref="WordPress-Extra" />
-
     <rule ref="Generic.CodeAnalysis.UnusedFunctionParameter"/>
     <rule ref="Generic.Commenting.Todo"/>
 
