@@ -1,3 +1,3 @@
 <?php
 
-$b = "test"; $array = array( 'b' );
+$b = "test"; $array = ['b']; $array2 = array('c' );
